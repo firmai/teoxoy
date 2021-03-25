@@ -1,4 +1,4 @@
-Joined Github **3** years ago.
+Joined Github **4** years ago.
 
 ### Hi there 👋
 I'm Derek, a software developer and machine learning researcher in management sciences and finance. 
@@ -25,7 +25,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   </table>
 
-I Joined Github **3** years ago. Since then I pushed **2077** commits, opened **86** issues, received **13064** stars across **55** personal projects and contributed to **26** public repositories.
+I Joined Github **4** years ago. Since then I pushed **2077** commits, opened **87** issues, received **13067** stars across **55** personal projects and contributed to **27** public repositories.
 
 
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
