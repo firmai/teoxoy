@@ -25,7 +25,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   </table>
 
-I Joined Github **8** years ago. Since then I pushed **19884** commits, opened **250** issues, received **23832** stars across **79** personal projects and contributed to **48** public repositories.
+I Joined Github **8** years ago. Since then I pushed **19886** commits, opened **250** issues, received **23835** stars across **79** personal projects and contributed to **48** public repositories.
 
 
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
